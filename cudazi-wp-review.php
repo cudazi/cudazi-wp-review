@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:       WordPress Review Helper
-Description:       Performs checks and setup of custom test environment
+Description:       WordPress plugin to assist in theme checks. Displays notices using admin_notices hook.
 Version:           0.1
 */
 
